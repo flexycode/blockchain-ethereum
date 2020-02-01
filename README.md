@@ -27,4 +27,4 @@ Right now, thousands of developers all over the world are building applications 
 
 The Ethereum community is the largest and most active blockchain community in the world. It includes core protocol developers, cryptoeconomic researchers, cypherpunks, mining organizations, ETH holders, app developers, ordinary users, anarchists, fortune 500 companies, and, as of now, you.
 
-There is no company or centralized organization that controls Ethereum. Ethereum is maintained and improved over time by a diverse global community of contributors who work on everything from the core protocol to consumer applications. This website, just like the rest of Ethereum, was built - and continues to be built - by a collection of people working together.
+There is no company or centralized organization that controls Ethereum. Ethereum is maintained and improved over time by a diverse global community of contributors who work on everything from the core protocol to consumer applications. This website, just like the rest of Ethereum, was built - and continues to be built - by a collection of people working together..
